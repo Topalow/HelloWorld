@@ -1,21 +1,14 @@
 # HelloWorld
 
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
-bullsh*t,bullsh*t,bullsh*,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,bullsh*t,tbullsh*t,bullsh*t
+bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|
+bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|
+bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|
+bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|
+bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|
+bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|
+bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|
+bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|
+bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|
+bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|bullshit|
 
-level 99 at 99%to100!
+                                       Level 99 at 99%!Level 100 is so close!
